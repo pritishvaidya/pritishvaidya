@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Pritish Vaidya, a FrontEnd Developer.
+Hi, I'm Pritish Vaidya, a FrontEnd Engineer.
 
 **Languages and Tools:**  
 
